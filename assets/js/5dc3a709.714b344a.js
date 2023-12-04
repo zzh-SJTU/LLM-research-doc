@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkllm_research=self.webpackChunkllm_research||[]).push([[748],{9237:e=>{e.exports=JSON.parse('[{"label":"Welcome","permalink":"/LLM-research-doc/blog/tags/welcome","count":1},{"label":"hello","permalink":"/LLM-research-doc/blog/tags/hello","count":1}]')}}]);

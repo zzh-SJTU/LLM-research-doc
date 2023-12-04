@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkllm_research=self.webpackChunkllm_research||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/LLM-research-doc/blog/welcome","unlisted":false}]}')}}]);
